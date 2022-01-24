@@ -55,6 +55,14 @@ ItemName_ES = {
 	ItemName_Base.ST5 				= "Minifalda",	
 	ItemName_Base.Trousers_Worker 	= "Peto Carhartt",	
 	
+	ItemName_Base.Trousers_CamoDesert 	= "Pantalón militar de camuflaje del desierto",
+	ItemName_Base.Trousers_CamoDesert2 	= "Pantalón militar de camuflaje del desierto",
+	ItemName_Base.Trousers_CamoGreen 	= "Pantalón militar de camuflaje",
+	ItemName_Base.Trousers_CamoGreen2 	= "Pantalón militar de camuflaje",
+	ItemName_Base.Trousers_CamoUrban 	= "Pantalón militar de camuflaje urbano",
+	ItemName_Base.Trousers_CamoUrban2 	= "Pantalón militar de camuflaje urbano",
+	
+	
 /*BWC Shirts */
 
 	ItemName_Base.tanktops 		= "Crop Top",
