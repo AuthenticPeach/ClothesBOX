@@ -1,0 +1,405 @@
+module Base
+{
+	item kupalnuk
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Swimsuit1,
+		ClothingItem = kupalnuk,
+		BodyLocation = Underwear,
+		BloodLocation = Shirt,
+		IconsForTexture = Swim1;Swim2;Swim3;Swim4;Swim5;Swim6;Swim7;Swim8,
+		Weight = 0.01,
+		WorldStaticModel = SwimSuit_Ground,
+    }
+
+	item Glasses_1
+	{
+	    DisplayCategory = Accessory,	
+		Type = Clothing,
+		DisplayName = Glasses Welder,
+		ClothingItem = Glasses_1,
+		BodyLocation = Eyes,
+		Icon = A1_10,
+		Weight = 0.1,
+		Cosmetic = TRUE,
+		ChanceToFall = 10,
+        Insulation = 0.25,
+		WorldStaticModel = WorldItem-Ochi_1_Ground,	
+	}
+
+	item tanktops
+	{
+       DisplayCategory = Clothing,		
+		Type 			 = Clothing,
+		DisplayName 	 = Tanktop,
+		ClothingItem 	 = tanktops,
+		BodyLocation 	 = TankTop,
+		Icon 			 = TGeneric,
+		BloodLocation	 = Shirt,
+        Insulation 		 = 0.1,
+        WindResistance 	 = 0.2,
+		Weight 			 = 0.01,
+        FabricType 		 = Cotton,
+		WorldStaticModel = BulletVest_Ground,		
+	}
+
+	item tanktops1
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Tanktop,
+		ClothingItem = tanktops1,
+		BodyLocation = TankTop,
+		Icon = TGeneric,
+		BloodLocation = Shirt,
+        Insulation = 0.1,
+        WindResistance 	 = 0.2,
+		Weight 			 = 0.01,
+        FabricType 		 = Cotton,
+		WorldStaticModel = BulletVest_Ground,		
+	}
+
+	item PAN_2
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Bikini panties,
+		ClothingItem = PAN_2,
+		BodyLocation = Underwear,
+		Icon = PANS,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+		WorldStaticModel = Underpants_Ground,
+	}
+
+	item PAN_3
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Bikini panties,
+		ClothingItem = PAN_3,
+		BodyLocation = Underwear,
+		Icon = PANS,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+		WorldStaticModel = Underpants_Ground,
+	}
+
+	item PAN_4
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Pantsu,
+		ClothingItem = PAN_4,
+		BodyLocation = Underwear,
+		IconsForTexture = PANS1_1;PANS1_2;PANS1_3;PANS1_4;PANS1_5;PANS1_6;PANS1_7;PANS1_8;PANS1_9;PANS1_10;PANS1_11;PANS1_12;PANS1_13;PANS1_14;PANS1_15,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+		WorldStaticModel = Underpants_Ground,
+	}
+
+	item Glasses_2
+	{
+	    DisplayCategory = Accessory,		
+		Type = Clothing,
+		DisplayName = Glasses 80s,
+		ClothingItem = Glasses_2,
+		BodyLocation = Eyes,
+		IconsForTexture = OH_1;OH_2;OH_3;OH_4;OH_5,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+		WorldStaticModel = WorldItem-Ochi_2_Ground,	
+	}
+
+	item Glasses_3
+	{
+	    DisplayCategory = Accessory,		
+		Type = Clothing,
+		DisplayName = Glasses 80s,
+		ClothingItem = Glasses_3,
+		BodyLocation = Eyes,
+		IconsForTexture = OH2_1;OH2_2;OH2_3;OH2_4;OH2_5,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+		WorldStaticModel = WorldItem-Ochi_3_Ground,	
+	}
+
+	item BOOT_1
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Stomper Boots,
+		ClothingItem = BOOT_1,
+		BodyLocation = Shoes,
+		BloodLocation = Shoes,
+		Icon = BOTS,
+		StompPower = 3.0,
+		ConditionLowerChanceOneIn = 20,
+        ConditionMax = 30,
+        RunSpeedModifier = 0.85,
+        RemoveOnBroken = false,
+        ScratchDefense = 100,
+        BiteDefense = 100,
+        Insulation = 1.0,
+        WindResistance = 1.0,
+        WaterResistance = 0.8,
+        WorldStaticModel = WorldItem-Boot1_Ground,		
+	}
+
+	item OHI_1
+	{
+	    DisplayCategory = Accessory,		
+		Type = Clothing,
+		DisplayName = Glasses OHI 1,
+		ClothingItem = OHI_1,
+		BodyLocation = Eyes,
+		Icon = OHI_1,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+        WorldStaticModel = WorldItem-OHI_1_Ground,	
+	}
+
+	item OHI_2
+	{
+	    DisplayCategory = Accessory,		
+		Type = Clothing,
+		DisplayName = Glasses OHI 2,
+		ClothingItem = OHI_2,
+		BodyLocation = Eyes,
+		Icon = OHI_2,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+        WorldStaticModel = WorldItem-OHI_1_Ground,	
+	}
+
+	item OHI_3
+	{
+	    DisplayCategory = Accessory,		
+		Type = Clothing,
+		DisplayName = Glasses OHI 3,
+		ClothingItem = OHI_3,
+		BodyLocation = Eyes,
+		Icon = OHI_3,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+        WorldStaticModel = WorldItem-OHI_1_Ground,	
+	}
+
+	item OHI_4
+	{
+	    DisplayCategory = Accessory,		
+		Type = Clothing,
+		DisplayName = Glasses OHI 4,
+		ClothingItem = OHI_4,
+		BodyLocation = Eyes,
+		Icon = OHI_4,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+        WorldStaticModel = WorldItem-OHI_1_Ground,	
+	}
+
+	item OHI_5
+	{
+	    DisplayCategory = Accessory,		
+		Type = Clothing,
+		DisplayName = Glasses OHI 5,
+		ClothingItem = OHI_5,
+		BodyLocation = Eyes,
+		Icon = OHI_5,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+        WorldStaticModel = WorldItem-OHI_1_Ground,	
+	}
+
+	item OHI_6
+	{
+	    DisplayCategory = Accessory,		
+		Type = Clothing,
+		DisplayName = Glasses OHI 6,
+		ClothingItem = OHI_6,
+		BodyLocation = Eyes,
+		Icon = OHI_6,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+        WorldStaticModel = WorldItem-OHI_1_Ground,	
+	}
+
+	item OHI_7
+	{
+	    DisplayCategory = Accessory,	
+		Type = Clothing,
+		DisplayName = Glasses OHI 7,
+		ClothingItem = OHI_7,
+		BodyLocation = Eyes,
+		Icon = OHI_7,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+        WorldStaticModel = WorldItem-OHI_1_Ground,	
+	}
+
+	item OHI_8
+	{
+	    DisplayCategory = Accessory,		
+		Type = Clothing,
+		DisplayName = Glasses OHI 8,
+		ClothingItem = OHI_8,
+		BodyLocation = Eyes,
+		Icon = OHI_8,
+		Weight = 0.01,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+        WorldStaticModel = WorldItem-OHI_1_Ground,	
+	}
+
+	item SK1
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Sport Swimsuit,
+		ClothingItem = SK1,
+		BodyLocation = Underwear,
+		IconsForTexture = SK_0;SK_1;SK_2;SK_3;SK_4;SK_5;SK_6;SK_7;SK_8;SK_9;SK_10;SK_11;SK_12;SK_13;SK_14;SK_15;SK_16,
+		BloodLocation = Shirt,
+        ScratchDefense = 5,
+		Weight = 0.09,
+		WorldStaticModel = SwimSuit_Ground,
+   }
+
+	item PAN_5
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Thong,
+		ClothingItem = PAN_5,
+		BodyLocation = Underwear,
+		IconsForTexture = PANS2_1;PANS2_2;PANS2_3;PANS2_4;PANS2_5;PANS2_6;PANS2_7;PANS2_8;PANS2_9;PANS2_10,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+		WorldStaticModel = WorldItem-PAN_5_Ground,
+	}
+
+	item PAN_6
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Mini Thong,
+		ClothingItem = PAN_6,
+		BodyLocation = Underwear,
+		IconsForTexture = PANS3_1;PANS3_2;PANS3_3;PANS3_4;PANS3_5;PANS3_6;PANS3_7;PANS3_8;PANS3_9;PANS3_10,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+		WorldStaticModel = WorldItem-PAN_5_Ground,
+	}
+
+	item PAN_7
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Man Thong,
+		ClothingItem = PAN_7,
+		BodyLocation = Underwear,
+		IconsForTexture = PANS4_1;PANS4_2;PANS4_3;PANS4_4;PANS4_5;PANS4_6;PANS4_7;PANS4_8;PANS4_9;PANS4_10,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+		WorldStaticModel = SwimSuit_Ground,
+	}
+
+	item KOF1
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Women's sweater,
+		ClothingItem = KOF1,
+		BodyLocation = Shirt,
+		Icon = KOF1,
+		BloodLocation = ShirtLongSleeves,
+        Insulation = 0.25,
+        WindResistance = 0.1,
+        FabricType = Cotton,
+        WorldStaticModel = Jumper_Ground,		
+	}
+
+
+	item KOF2
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName =  Sweater2,
+		ClothingItem = KOF2,
+		BodyLocation = Shirt,
+		IconsForTexture = KOF1_1;KOF1_2;KOF1_3;KOF1_4;KOF1_5;KOF1_6;KOF1_7;KOF1_8;KOF1_9;KOF1_10;KOF1_11;KOF1_12;KOF1_13;KOF1_14;KOF1_15,
+		BloodLocation = ShirtLongSleeves,
+        Insulation = 0.25,
+        WindResistance = 0.1,
+        FabricType = Cotton,
+        WorldStaticModel = Jumper_Ground,	
+	}
+
+	item LIF1
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Brassiere,
+		ClothingItem = LIF1,
+		BodyLocation = TankTop,
+		Icon = LIF1,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+        FabricType = Cotton,
+		WorldStaticModel = Bikini_Ground,
+	}
+
+
+	item LIF1_1
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Brassiere,
+		ClothingItem = LIF1_1,
+		BodyLocation = TankTop,
+		Icon = LIF1,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+        FabricType = Cotton,
+		WorldStaticModel = Bikini_Ground,
+	}
+
+	item LIF2
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Brassiere 2,
+		ClothingItem = LIF2,
+		BodyLocation = TankTop,
+		IconsForTexture = LIF2_1;LIF2_2;LIF2_3;LIF2_4;LIF2_5;LIF2_6;LIF2_7;LIF2_8;LIF2_9;LIF2_10;LIF2_11;LIF2_12;LIF2_13;LIF2_14;LIF2_15,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+        FabricType = Cotton,
+		WorldStaticModel = Bikini_Ground,
+	}
+
+	item LIF3
+	{
+       DisplayCategory = Clothing,		
+		Type = Clothing,
+		DisplayName = Brassiere 3,
+		ClothingItem = LIF3,
+		BodyLocation = TankTop,
+		IconsForTexture = LIF3_1;LIF3_2;LIF3_3;LIF3_4;LIF3_5;LIF3_6;LIF3_7;LIF3_8;LIF3_9;LIF3_10,
+		BloodLocation = Shirt,
+		Weight = 0.01,
+        FabricType = Cotton,
+		WorldStaticModel = Bikini_Ground,
+	}
+
+}

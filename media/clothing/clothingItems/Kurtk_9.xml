@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\Kurtk_9</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\Kurtk_9_F</m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000091</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>nohair</m_HatCategory>
+	<textureChoices>clothes\PG11_1</textureChoices>
+	<textureChoices>clothes\PG1_2</textureChoices>
+	<textureChoices>clothes\PG1_3</textureChoices>
+	<textureChoices>clothes\PG1_4</textureChoices>
+	<textureChoices>clothes\PG1_5</textureChoices>
+	<textureChoices>clothes\PG1_6</textureChoices>
+	<textureChoices>clothes\PG1_7</textureChoices>
+	<textureChoices>clothes\PG1_8</textureChoices>
+	<textureChoices>clothes\PG1_9</textureChoices>
+	<textureChoices>clothes\PG1_10</textureChoices>
+	<textureChoices>clothes\PG1_11</textureChoices>
+	<textureChoices>clothes\PG1_12</textureChoices>
+	<textureChoices>clothes\PG1_13</textureChoices>
+	<textureChoices>clothes\PG1_14</textureChoices>
+	<textureChoices>clothes\PG1_15</textureChoices>
+</clothingItem>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\Stani_5</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\Stani_5_F</m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000056</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>9</m_Masks>
+	<m_Masks>7</m_Masks>
+	<m_Masks>15</m_Masks>
+	<textureChoices>clothes\STAN\ST3_1</textureChoices>
+	<textureChoices>clothes\STAN\ST3_2</textureChoices>
+	<textureChoices>clothes\STAN\ST3_3</textureChoices>
+	<textureChoices>clothes\STAN\ST3_4</textureChoices>
+	<textureChoices>clothes\STAN\ST3_5</textureChoices>
+	<textureChoices>clothes\STAN\ST3_6</textureChoices>
+	<textureChoices>clothes\STAN\ST3_7</textureChoices>
+	<textureChoices>clothes\STAN\ST3_8</textureChoices>
+	<textureChoices>clothes\STAN\ST3_9</textureChoices>
+	<textureChoices>clothes\STAN\ST3_10</textureChoices>
+	<textureChoices>clothes\STAN\ST3_11</textureChoices>
+	<textureChoices>clothes\STAN\ST3_12</textureChoices>
+	<textureChoices>clothes\STAN\ST3_13</textureChoices>
+	<textureChoices>clothes\STAN\ST3_14</textureChoices>
+	<textureChoices>clothes\STAN\ST3_15</textureChoices>
+	<textureChoices>clothes\STAN\ST3_16</textureChoices>
+	<textureChoices>clothes\STAN\ST3_17</textureChoices>
+	<textureChoices>clothes\STAN\ST3_18</textureChoices>
+	<textureChoices>clothes\STAN\ST3_19</textureChoices>
+	<textureChoices>clothes\STAN\ST3_20</textureChoices>
+</clothingItem>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000005</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\Kup\1</m_BaseTextures>
+	<m_BaseTextures>clothes\Kup\2</m_BaseTextures>
+	<m_BaseTextures>clothes\Kup\3</m_BaseTextures>
+	<m_BaseTextures>clothes\Kup\4</m_BaseTextures>
+	<m_BaseTextures>clothes\Kup\5</m_BaseTextures>
+	<m_BaseTextures>clothes\Kup\6</m_BaseTextures>
+	<m_BaseTextures>clothes\Kup\7</m_BaseTextures>
+	<m_BaseTextures>clothes\Kup\8</m_BaseTextures>
+
+</clothingItem>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\Kurtk_7</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\Kurtk_7_F</m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000082</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\PLAS2_6</textureChoices>
+	<textureChoices>clothes\PLAS2_7</textureChoices>
+	<textureChoices>clothes\PLAS2_8</textureChoices>
+	<textureChoices>clothes\PLAS2_9</textureChoices>
+	<textureChoices>clothes\PLAS2_10</textureChoices>
+</clothingItem>

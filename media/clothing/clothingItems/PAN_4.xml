@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000046</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\PAN1\PANS1_1</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_2</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_3</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_4</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_5</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_6</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_7</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_8</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_9</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_10</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_11</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_12</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_13</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_14</m_BaseTextures>
+	<m_BaseTextures>clothes\PAN1\PANS1_15</m_BaseTextures>
+
+</clothingItem>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000097</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\KOF2_1</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_2</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_3</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_4</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_5</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_6</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_7</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_8</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_9</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_10</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_11</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_12</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_13</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_14</m_BaseTextures>
+	<m_BaseTextures>clothes\KOF2_15</m_BaseTextures>
+
+</clothingItem>

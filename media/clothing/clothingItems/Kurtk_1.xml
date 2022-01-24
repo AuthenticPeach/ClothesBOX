@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\Kurtk_1</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\Kurtk_1_F</m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000001</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\B1</textureChoices>
+	<textureChoices>clothes\B2</textureChoices>
+	<textureChoices>clothes\B3</textureChoices>
+	<textureChoices>clothes\B4</textureChoices>
+	<textureChoices>clothes\B5</textureChoices>
+	<textureChoices>clothes\B6</textureChoices>
+	<textureChoices>clothes\B7</textureChoices>
+	<textureChoices>clothes\B8</textureChoices>
+</clothingItem>

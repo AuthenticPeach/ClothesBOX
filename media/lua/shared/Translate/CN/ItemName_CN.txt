@@ -1,0 +1,132 @@
+ItemName_CN = {
+
+/*BWC Hats */
+
+	ItemName_Base.CAPARM_1 		 = "丛林军用帽",
+	ItemName_Base.CAPARM_2 	 	 = "城市军用帽",
+	ItemName_Base.CAPARM_3 		 = "沙漠军用帽",	
+	ItemName_Base.CAPARM_4 		 = "橄榄色巡逻帽",
+
+/*BWC Bags */
+
+	ItemName_Base.Ras_army 	= "银行劫匪背心",
+	ItemName_Base.Ras_ohota = "战术背心",
+	
+	ItemName_Base.Sumk_1_L 	= "快递包",
+	ItemName_Base.Sumk_1_R 	= "快递包",	
+	ItemName_Base.Sumk_1M_L = "医疗包",
+	ItemName_Base.Sumk_1M_R = "医疗包",	
+	ItemName_Base.Sumk_2_L 	= "多人创伤应急包",
+	ItemName_Base.Sumk_2_R 	= "多人创伤应急包",
+	ItemName_Base.HR 		= "野外背包",
+	ItemName_Base.ANAT 		= "突击背包",	
+	ItemName_Base.Sumk_3_L 	= "斜挎包",
+	ItemName_Base.Sumk_3_R 	= "斜挎包",	
+	ItemName_Base.Sumk_4_L 	= "书袋",
+	ItemName_Base.Sumk_4_R 	= "书袋",
+	ItemName_Base.Sumk_5_L 	= "文件盒",
+	ItemName_Base.Sumk_5_R 	= "文件盒",	
+	ItemName_Base.Sumk_6	= "战术腰带",
+	ItemName_Base.Sumk_7_L 	= "左腿包",	
+	ItemName_Base.Sumk_7_R 	= "右腿包",	
+	ItemName_Base.Sumk_8P 	= "军用腰包",
+	ItemName_Base.Sumk_8 	= "军用腰包",
+	ItemName_Base.RUKSAK 	= "狩猎背包",
+	ItemName_Base.RUKSAK2 	= "SPOSN玉米饼背包",
+	
+/*BWC Suits */
+
+	ItemName_Base.KOMB 		 = "工人工作服",
+	ItemName_Base.Kurtk_3 	 = "防尘服",
+	ItemName_Base.Waterproof = "防水服",	
+
+/*BWC Shoes */
+	
+	ItemName_Base.BOOT_1 				= "铁制巡游靴",
+	
+/*BWC Pants */
+
+	ItemName_Base.PAN 				= "跑步短裤",	
+	ItemName_Base.SHO1 				= "长筒袜",	
+	ItemName_Base.SP2 				= "运动裤",	
+	ItemName_Base.ST2 				= "工装裤",	
+	ItemName_Base.ST3 				= "喇叭裤",
+	ItemName_Base.ST4 				= "迷你裙",		
+	ItemName_Base.ST5 				= "迷你裙",	
+	ItemName_Base.Trousers_Worker 	= "卡哈特工装裤",	
+	
+/*BWC Shirts */
+
+	ItemName_Base.tanktops 		= "短款上衣",
+	ItemName_Base.tanktops1 	= "短款上衣",		
+
+/*BWC Jackets */
+
+	ItemName_Base.Bomber 		 		  = "飞行员夹克",
+	ItemName_Base.Kurtk_1 	 	 		  = "冬大衣",
+	ItemName_Base.Kurtk_2 		 		  = "风衣",	
+	ItemName_Base.Kurtk_4 				  = "工作夹克",
+	ItemName_Base.Vest_ForemanOPEN 		  = "工头背心",
+	ItemName_Base.Vest_Foreman 	 	 	  = "工头背心",
+	ItemName_Base.Vest_HighVizOPEN 		  = "高能见度背心",	
+	ItemName_Base.Vest_HighViz 		 	  = "高能见度背心",	
+	ItemName_Base.Vest_Hunting_CamoGreenOPEN  = "绿色迷彩狩猎背心",	
+	ItemName_Base.Vest_Hunting_CamoGreen 	  = "绿色迷彩狩猎背心",
+	ItemName_Base.Vest_Hunting_CamoOPEN   = "迷彩狩猎背心",	
+	ItemName_Base.Vest_Hunting_Camo 	  = "迷彩狩猎背心",	
+	ItemName_Base.Vest_Hunting_GreyOPEN   = "灰色狩猎背心",	
+	ItemName_Base.Vest_Hunting_Grey 	  = "灰色狩猎背心",
+	ItemName_Base.Vest_Hunting_OrangeOPEN = "橙色狩猎背心",
+	ItemName_Base.Vest_Hunting_Orange 	  = "橙色狩猎背心",
+	ItemName_Base.KOS 		 			  = "机车夹克",	
+	ItemName_Base.SP1OP 				  = "冲锋衣",
+	ItemName_Base.SP1 		 			  = "冲锋衣",
+	ItemName_Base.Kurtk_5OP 	 	 	  = "开衫毛衣",
+	ItemName_Base.Kurtk_5 		 		  = "开衫毛衣",
+	ItemName_Base.Kurtk_6OP 		 	  = "武士飞行员夹克",	
+	ItemName_Base.Kurtk_6 		 	  	  = "武士飞行员夹克",	
+	ItemName_Base.RUBOP 		 		  = "长外套",
+	ItemName_Base.RUB 		 		 	  = "长外套",
+	ItemName_Base.Kurtk_7OP 		 	  = "经典斗篷",	
+	ItemName_Base.Kurtk_7 		 		  = "经典斗篷",
+	ItemName_Base.Kurtk_7_1OP 		 	  = "侦探风衣",
+	ItemName_Base.Kurtk_7_1 		 	  = "侦探风衣",
+	ItemName_Base.Kurtk_8OP 		 	  = "毛绒大衣",
+	ItemName_Base.Kurtk_8 		 		  = "毛绒大衣",	
+	ItemName_Base.Kurtk_9OP 		 	  = "连帽战术外套",	
+	ItemName_Base.Kurtk_9 		 		  = "连帽战术外套",	
+	ItemName_Base.Kurtk_10OP 		 	  = "切斯特菲尔德外套",
+	ItemName_Base.Kurtk_10 		 		  = "切斯特菲尔德外套",
+	ItemName_Base.KOF1 		 		  	  = "V领毛衣",
+	ItemName_Base.KOF2 		 		  	  = "露肩毛衣",	
+
+/*BWC Others (Underwear) */
+	
+	ItemName_Base.kupalnuk 		 = "泳衣",
+	ItemName_Base.PAN_2 		 = "比基尼",
+	ItemName_Base.PAN_3 		 = "比基尼（白色）",
+	ItemName_Base.PAN_4 		 = "比基尼",	
+	ItemName_Base.SK1			 = "连体泳衣",
+	ItemName_Base.PAN_5 		 = "丁字裤",
+	ItemName_Base.PAN_6 		 = "丁字裤",
+	ItemName_Base.PAN_7 		 = "男士比基尼",
+	ItemName_Base.LIF1 		 	 = "肩带文胸",
+	ItemName_Base.LIF1_1 	 	 = "肩带文胸（白色）",
+	ItemName_Base.LIF2 		 	 = "运动文胸",
+	ItemName_Base.LIF3 		 	 = "莱娅内衣",	
+	
+/*Glasses */
+
+	ItemName_Base.Glasses_1 	 = "焊工护目镜",
+	ItemName_Base.Glasses_2 	 = "飞行员护目镜",
+	ItemName_Base.Glasses_3 	 = "图书管理员眼镜",	
+	ItemName_Base.OHI_1 		 = "设计师眼镜",
+	ItemName_Base.OHI_2 		 = "猫眼眼镜",
+	ItemName_Base.OHI_3 		 = "飞行员护目镜",
+	ItemName_Base.OHI_4 		 = "飞行员护目镜",
+	ItemName_Base.OHI_5 		 = "牛角框眼镜",
+	ItemName_Base.OHI_6 		 = "拖镜",
+	ItemName_Base.OHI_7 		 = "超级猫眼眼镜",
+	ItemName_Base.OHI_8 		 = "双光眼镜",	
+	
+}

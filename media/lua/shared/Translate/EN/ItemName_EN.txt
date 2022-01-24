@@ -1,0 +1,140 @@
+ItemName_EN = {
+
+/*BWC Hats */
+
+	ItemName_Base.CAPARM_1 		 = "Woodland Army Cap",
+	ItemName_Base.CAPARM_2 	 	 = "Urban Army Cap",
+	ItemName_Base.CAPARM_3 		 = "Desert Army Cap",	
+	ItemName_Base.CAPARM_4 		 = "Olive Drab Patrol Cap",
+
+/*BWC Bags */
+
+	ItemName_Base.Ras_army 	= "Bank Robber Chest Rig",
+	ItemName_Base.Ras_ohota = "Tactical Combat Unloading Vest",
+	
+	ItemName_Base.Sumk_1_L 	= "Courier Bag",
+	ItemName_Base.Sumk_1_R 	= "Courier Bag",	
+	ItemName_Base.Sumk_1M_L = "Medical Bag",
+	ItemName_Base.Sumk_1M_R = "Medical Bag",	
+	ItemName_Base.Sumk_2_L 	= "Multi-Person Trauma Kit",
+	ItemName_Base.Sumk_2_R 	= "Multi-Person Trauma Kit",
+	ItemName_Base.HR 		= "Field Backpack",
+	ItemName_Base.ANAT 		= "Assault Backpack",	
+	ItemName_Base.Sumk_3_L 	= "Messanger Bag",
+	ItemName_Base.Sumk_3_R 	= "Messanger Bag",	
+	ItemName_Base.Sumk_4_L 	= "Book Bag",
+	ItemName_Base.Sumk_4_R 	= "Book Bag",
+	ItemName_Base.Sumk_5_L 	= "Documents Case",
+	ItemName_Base.Sumk_5_R 	= "Documents Case",	
+	ItemName_Base.Sumk_6	= "Tactical Belt",
+	ItemName_Base.Sumk_7_L 	= "Drop Leg Pouch",	
+	ItemName_Base.Sumk_7_R 	= "Drop Leg Pouch",	
+	ItemName_Base.Sumk_8P 	= "Military Fanny Pack",
+	ItemName_Base.Sumk_8 	= "Military Fanny Pack",
+	ItemName_Base.RUKSAK 	= "Hunting Backpack",
+	ItemName_Base.RUKSAK2 	= "SPOSN Tortilla Backpack",
+	
+/*BWC Suits */
+
+	ItemName_Base.KOMB 		 = "Worker Coveralls",
+	ItemName_Base.Kurtk_3 	 = "Duster",
+	ItemName_Base.Waterproof = "Waterproof Overalls",	
+
+/*BWC Shoes */
+	
+	ItemName_Base.BOOT_1 				= "Iron Ranger Boots",
+	
+/*BWC Pants */
+
+	ItemName_Base.PAN 				= "Running Shorts",	
+	ItemName_Base.SHO1 				= "Thigh-high Socks",	
+	ItemName_Base.SP2 				= "Tracksuit Pants",	
+	ItemName_Base.ST2 				= "Cargo Pants",	
+	ItemName_Base.ST3 				= "Bellbottoms",
+	ItemName_Base.ST4 				= "Mini Skirt",		
+	ItemName_Base.ST5 				= "Mini Skirt",	
+	ItemName_Base.Trousers_Worker 	= "Carhartt Dungarees",
+	
+	ItemName_Base.Trousers_CamoDesert 	= "Military Desert Camo Pants",
+	ItemName_Base.Trousers_CamoDesert2 	= "Military Desert Camo Pants",
+	ItemName_Base.Trousers_CamoGreen 	= "Woodland Camo Pants",
+	ItemName_Base.Trousers_CamoGreen2 	= "Woodland Camo Pants",
+	ItemName_Base.Trousers_CamoUrban 	= "Military Urban Camo Pants",
+	ItemName_Base.Trousers_CamoUrban2 	= "Military Urban Camo Pants",
+	
+	
+/*BWC Shirts */
+
+	ItemName_Base.tanktops 		= "Crop Top",
+	ItemName_Base.tanktops1 	= "Crop Top",		
+
+/*BWC Jackets */
+
+	ItemName_Base.Bomber 		 		  = "Bomber Jacket",
+	ItemName_Base.Kurtk_1 	 	 		  = "Winter Coat",
+	ItemName_Base.Kurtk_2 		 		  = "Trench Coat",	
+	ItemName_Base.Kurtk_4 				  = "Work Jacket",
+	ItemName_Base.Vest_ForemanOPEN 		  = "Foreman Vest",
+	ItemName_Base.Vest_Foreman 	 	 	  = "Foreman Vest",
+	ItemName_Base.Vest_HighVizOPEN 		  = "High Visibility Vest",	
+	ItemName_Base.Vest_HighViz 		 	  = "High Visibility Vest",	
+	ItemName_Base.Vest_Hunting_CamoGreenOPEN  = "Green Camo Hunting Vest",	
+	ItemName_Base.Vest_Hunting_CamoGreen 	  = "Green Camo Hunting Vest",
+	ItemName_Base.Vest_Hunting_CamoOPEN   = "Camo Hunting Vest",	
+	ItemName_Base.Vest_Hunting_Camo 	  = "Camo Hunting Vest",	
+	ItemName_Base.Vest_Hunting_GreyOPEN   = "Grey Hunting Vest",	
+	ItemName_Base.Vest_Hunting_Grey 	  = "Grey Hunting Vest",
+	ItemName_Base.Vest_Hunting_OrangeOPEN = "Orange Hunting Vest",
+	ItemName_Base.Vest_Hunting_Orange 	  = "Orange Hunting Vest",
+	ItemName_Base.KOS 		 			  = "Biker Jacket",	
+	ItemName_Base.SP1OP 				  = "Wind Breaker",
+	ItemName_Base.SP1 		 			  = "Wind Breaker",
+	ItemName_Base.Kurtk_5OP 	 	 	  = "Cardigan Sweater",
+	ItemName_Base.Kurtk_5 		 		  = "Cardigan Sweater",
+	ItemName_Base.Kurtk_6OP 		 	  = "Samurai Bomber Jacket",	
+	ItemName_Base.Kurtk_6 		 	  	  = "Samurai Bomber Jacket",	
+	ItemName_Base.RUBOP 		 		  = "Long Jacket",
+	ItemName_Base.RUB 		 		 	  = "Long Jacket",
+	ItemName_Base.Kurtk_7OP 		 	  = "Classic Cloak",	
+	ItemName_Base.Kurtk_7 		 		  = "Classic Cloak",
+	ItemName_Base.Kurtk_7_1OP 		 	  = "Detective Trench Coat",
+	ItemName_Base.Kurtk_7_1 		 	  = "Detective Trench Coat",
+	ItemName_Base.Kurtk_8OP 		 	  = "Fuzzy Coat",
+	ItemName_Base.Kurtk_8 		 		  = "Fuzzy Coat",	
+	ItemName_Base.Kurtk_9OP 		 	  = "Tactical Coat with Hood",	
+	ItemName_Base.Kurtk_9 		 		  = "Tactical Coat with Hood",	
+	ItemName_Base.Kurtk_10OP 		 	  = "Chesterfield Coat",
+	ItemName_Base.Kurtk_10 		 		  = "Chesterfield Coat",
+	ItemName_Base.KOF1 		 		  	  = "V-Neck Sweater",
+	ItemName_Base.KOF2 		 		  	  = "Cold-Shoulder Sweater",	
+
+/*BWC Others (Underwear) */
+	
+	ItemName_Base.kupalnuk 		 = "Swimsuit",
+	ItemName_Base.PAN_2 		 = "Two-Piece Bottoms",
+	ItemName_Base.PAN_3 		 = "White Two-Piece Bottoms",
+	ItemName_Base.PAN_4 		 = "Two-Piece Bottoms",	
+	ItemName_Base.SK1			 = "One-piece Swimsuit",
+	ItemName_Base.PAN_5 		 = "Thong",
+	ItemName_Base.PAN_6 		 = "G-String Thong",
+	ItemName_Base.PAN_7 		 = "Bananna Hammock",
+	ItemName_Base.LIF1 		 	 = "Straps Bra",
+	ItemName_Base.LIF1_1 	 	 = "White Straps Bra",
+	ItemName_Base.LIF2 		 	 = "Sports Bra",
+	ItemName_Base.LIF3 		 	 = "Leia Brazzier",	
+	
+/*Glasses */
+
+	ItemName_Base.Glasses_1 	 = "Welder Goggles",
+	ItemName_Base.Glasses_2 	 = "Perscription Aviators",
+	ItemName_Base.Glasses_3 	 = "Librarian Glasses",	
+	ItemName_Base.OHI_1 		 = "Designer Eyes Glasses",
+	ItemName_Base.OHI_2 		 = "Cat Eye Glasses",
+	ItemName_Base.OHI_3 		 = "Brow Bar Perscription Aviators",
+	ItemName_Base.OHI_4 		 = "Perscription Glasses",
+	ItemName_Base.OHI_5 		 = "Horn Rimmed Eye Glasses",
+	ItemName_Base.OHI_6 		 = "Shutter Glasses",
+	ItemName_Base.OHI_7 		 = "Super Cat Eye Glasses",
+	ItemName_Base.OHI_8 		 = "Bifocal Glasses",	
+	
+}

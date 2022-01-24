@@ -1,0 +1,132 @@
+ItemName_ES = {
+
+/*BWC Hats */
+
+	ItemName_Base.CAPARM_1 		 = "Gorra militar de camuflaje verde",
+	ItemName_Base.CAPARM_2 	 	 = "Gorra militar de camuflaje urbano",
+	ItemName_Base.CAPARM_3 		 = "Gorra militar de camuflaje del desierto",	
+	ItemName_Base.CAPARM_4 		 = "Gorra de patrulla verde oliva",
+
+/*BWC Bags */
+
+	ItemName_Base.Ras_army 	= "Arnés de ladrón de banco",
+	ItemName_Base.Ras_ohota = "Chaleco de descarga de combate táctico",
+	
+	ItemName_Base.Sumk_1_L 	= "Bolsa de cartero",
+	ItemName_Base.Sumk_1_R 	= "Bolsa de cartero",	
+	ItemName_Base.Sumk_1M_L = "Bolsa médica",
+	ItemName_Base.Sumk_1M_R = "Bolsa médica",	
+	ItemName_Base.Sumk_2_L 	= "Kit de trauma para varias personas",
+	ItemName_Base.Sumk_2_R 	= "Kit de trauma para varias personas",
+	ItemName_Base.HR 		= "Mochila de campo",
+	ItemName_Base.ANAT 		= "Mochila de asalto",	
+	ItemName_Base.Sumk_3_L 	= "Bolsa de mensajero",
+	ItemName_Base.Sumk_3_R 	= "Bolsa de mensajero",	
+	ItemName_Base.Sumk_4_L 	= "Mochila",
+	ItemName_Base.Sumk_4_R 	= "Mochila",
+	ItemName_Base.Sumk_5_L 	= "Estuche de documentos",
+	ItemName_Base.Sumk_5_R 	= "Estuche de documentos",	
+	ItemName_Base.Sumk_6	= "Cinturón táctico",
+	ItemName_Base.Sumk_7_L 	= "Bolsa de pierna",	
+	ItemName_Base.Sumk_7_R 	= "Bolsa de pierna",	
+	ItemName_Base.Sumk_8P 	= "Riñonera militar",
+	ItemName_Base.Sumk_8 	= "Riñonera militar",
+	ItemName_Base.RUKSAK 	= "Mochila de caza",
+	ItemName_Base.RUKSAK2 	= "Mochila Tortilla SPOSN",
+	
+/*BWC Suits */
+
+	ItemName_Base.KOMB 		 = "Overoles de trabajador",
+	ItemName_Base.Kurtk_3 	 = "Abrigo",
+	ItemName_Base.Waterproof = "Mono impermeable",	
+
+/*BWC Shoes */
+	
+	ItemName_Base.BOOT_1 				= "Botas de guardabosques de hierro",
+	
+/*BWC Pants */
+
+	ItemName_Base.PAN 				= "Shorts para correr",	
+	ItemName_Base.SHO1 				= "Medias por encima de la rodilla",	
+	ItemName_Base.SP2 				= "Pantalones de chándal",	
+	ItemName_Base.ST2 				= "Pantalones tipo cargo",	
+	ItemName_Base.ST3 				= "Jeans acampanados",
+	ItemName_Base.ST4 				= "Minifalda",		
+	ItemName_Base.ST5 				= "Minifalda",	
+	ItemName_Base.Trousers_Worker 	= "Peto Carhartt",	
+	
+/*BWC Shirts */
+
+	ItemName_Base.tanktops 		= "Crop Top",
+	ItemName_Base.tanktops1 	= "Crop Top",		
+
+/*BWC Jackets */
+
+	ItemName_Base.Bomber 		 		  = "Chaqueta de bombardero",
+	ItemName_Base.Kurtk_1 	 	 		  = "Abrigo de invierno",
+	ItemName_Base.Kurtk_2 		 		  = "Gabardina",	
+	ItemName_Base.Kurtk_4 				  = "Gabardina",
+	ItemName_Base.Vest_ForemanOPEN 		  = "Chaleco de capataz (Desabrochado)",
+	ItemName_Base.Vest_Foreman 	 	 	  = "Chaleco de capataz",
+	ItemName_Base.Vest_HighVizOPEN 		  = "Chaleco reflector (Desabrochado)",	
+	ItemName_Base.Vest_HighViz 		 	  = "Chaleco reflector",	
+	ItemName_Base.Vest_Hunting_CamoGreenOPEN  = "Chaleco de caza de camuflaje verde (Desabrochado)",	
+	ItemName_Base.Vest_Hunting_CamoGreen 	  = "Chaleco de caza de camuflaje verde",
+	ItemName_Base.Vest_Hunting_CamoOPEN   = "Chaleco de caza de camuflaje (Desabrochado)",	
+	ItemName_Base.Vest_Hunting_Camo 	  = "Chaleco de caza de camuflaje",	
+	ItemName_Base.Vest_Hunting_GreyOPEN   = "Chaleco de caza gris (Desabrochado)",	
+	ItemName_Base.Vest_Hunting_Grey 	  = "Chaleco de caza gris",
+	ItemName_Base.Vest_Hunting_OrangeOPEN = "Chaleco de caza naranja (Desabrochado)",
+	ItemName_Base.Vest_Hunting_Orange 	  = "Chaleco de caza naranja",
+	ItemName_Base.KOS 		 			  = "Chaqueta de motociclista",	
+	ItemName_Base.SP1OP 				  = "Sudadera rompevientos",
+	ItemName_Base.SP1 		 			  = "Sudadera rompevientos",
+	ItemName_Base.Kurtk_5OP 	 	 	  = "Chaqueta de punto",
+	ItemName_Base.Kurtk_5 		 		  = "Chaqueta de punto",
+	ItemName_Base.Kurtk_6OP 		 	  = "Chaqueta Samurai Bomber",	
+	ItemName_Base.Kurtk_6 		 	  	  = "Chaqueta Samurai Bomber",	
+	ItemName_Base.RUBOP 		 		  = "Chaqueta larga",
+	ItemName_Base.RUB 		 		 	  = "Chaqueta larga",
+	ItemName_Base.Kurtk_7OP 		 	  = "Capa clásica",	
+	ItemName_Base.Kurtk_7 		 		  = "Capa clásica",
+	ItemName_Base.Kurtk_7_1OP 		 	  = "Gabardina de detective",
+	ItemName_Base.Kurtk_7_1 		 	  = "Gabardina de detective",
+	ItemName_Base.Kurtk_8OP 		 	  = "Abrigo de corderito",
+	ItemName_Base.Kurtk_8 		 		  = "Abrigo de corderito",	
+	ItemName_Base.Kurtk_9OP 		 	  = "Abrigo táctico con capucha",	
+	ItemName_Base.Kurtk_9 		 		  = "Abrigo táctico con capucha",	
+	ItemName_Base.Kurtk_10OP 		 	  = "Abrigo Chesterfield",
+	ItemName_Base.Kurtk_10 		 		  = "Abrigo Chesterfield",
+	ItemName_Base.KOF1 		 		  	  = "Suéter cuello en V",
+	ItemName_Base.KOF2 		 		  	  = "Suéter con hombros descubiertos",	
+
+/*BWC Others (Underwear) */
+	
+	ItemName_Base.kupalnuk 		 = "Traje de baño",
+	ItemName_Base.PAN_2 		 = "Sujetador",
+	ItemName_Base.PAN_3 		 = "Sujetador blanco",
+	ItemName_Base.PAN_4 		 = "Sujetador",	
+	ItemName_Base.SK1			 = "Traje de baño de una pieza",
+	ItemName_Base.PAN_5 		 = "Tanga",
+	ItemName_Base.PAN_6 		 = "Tanga",
+	ItemName_Base.PAN_7 		 = "Tanga masculina",
+	ItemName_Base.LIF1 		 	 = "Sujetador de tirantes",
+	ItemName_Base.LIF1_1 	 	 = "Sujetador de tirantes blanco",
+	ItemName_Base.LIF2 		 	 = "Sujetador deportivo",
+	ItemName_Base.LIF3 		 	 = "Brazzier Leia",	
+	
+/*Glasses */
+
+	ItemName_Base.Glasses_1 	 = "Gafas de soldador",
+	ItemName_Base.Glasses_2 	 = "Gafas de aviador recetados",
+	ItemName_Base.Glasses_3 	 = "Gafas de bibliotecario",	
+	ItemName_Base.OHI_1 		 = "Gafas de diseñador",
+	ItemName_Base.OHI_2 		 = "Gafas de ojo de gato",
+	ItemName_Base.OHI_3 		 = "Gafas de aviador recetados",
+	ItemName_Base.OHI_4 		 = "Gafas de prescripción",
+	ItemName_Base.OHI_5 		 = "Gafas con montura de cuerno",
+	ItemName_Base.OHI_6 		 = "Gafas de obturador",
+	ItemName_Base.OHI_7 		 = "Gafas de ojo de gato",
+	ItemName_Base.OHI_8 		 = "Anteojos bifocales",	
+	
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\Kurtk_5OP</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\Kurtk_5OP_F</m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000045</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\JEEN_1</textureChoices>
+	<textureChoices>clothes\JEEN_2</textureChoices>
+	<textureChoices>clothes\JEEN_3</textureChoices>
+	<textureChoices>clothes\JEEN_4</textureChoices>
+	<textureChoices>clothes\JEEN_5</textureChoices>
+	<textureChoices>clothes\JEEN_6</textureChoices>
+	<textureChoices>clothes\JEEN_7</textureChoices>
+	<textureChoices>clothes\JEEN_8</textureChoices>
+	<textureChoices>clothes\JEEN_9</textureChoices>
+	<textureChoices>clothes\JEEN_10</textureChoices>
+</clothingItem>

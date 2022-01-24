@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\PAN_M</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\PAN_F</m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000040</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\PAN\PAN_1</textureChoices>
+	<textureChoices>clothes\PAN\PAN_2</textureChoices>
+	<textureChoices>clothes\PAN\PAN_3</textureChoices>
+	<textureChoices>clothes\PAN\PAN_4</textureChoices>
+	<textureChoices>clothes\PAN\PAN_5</textureChoices>
+	<textureChoices>clothes\PAN\PAN_6</textureChoices>
+	<textureChoices>clothes\PAN\PAN_7</textureChoices>
+	<textureChoices>clothes\PAN\PAN_8</textureChoices>
+	<textureChoices>clothes\PAN\PAN_9</textureChoices>
+	<textureChoices>clothes\PAN\PAN_10</textureChoices>
+	<textureChoices>clothes\PAN\PAN_11</textureChoices>
+	<textureChoices>clothes\PAN\PAN_12</textureChoices>
+	<textureChoices>clothes\PAN\PAN_13</textureChoices>
+	<textureChoices>clothes\PAN\PAN_14</textureChoices>
+	<textureChoices>clothes\PAN\PAN_15</textureChoices>
+
+</clothingItem>

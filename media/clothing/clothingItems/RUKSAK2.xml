@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\RUKSAK2</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\RUKSAK2_F</m_FemaleModel>
+	<m_GUID>boxcloth-time-dung-0000-000000000112</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_1</textureChoices>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_2</textureChoices>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_3</textureChoices>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_4</textureChoices>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_5</textureChoices>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_6</textureChoices>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_7</textureChoices>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_8</textureChoices>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_9</textureChoices>
+	<textureChoices>clothes\RUKSAK\RUKSAK2_10</textureChoices>
+</clothingItem>
